@@ -1,0 +1,30 @@
+name: Bug Report
+description: File a bug report
+title: ""
+labels:
+  - "Type:Bug"
+assignees: []
+body:
+  - type: input
+    attributes:
+      label: Title
+      description: "Title goes here."
+      value: |
+        # 
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Reproduce
+      description: "Steps to reproduce the behavior"
+      value: |
+        ## To Reproduce
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+      render: markdown
+    validations:
+      required: false
+
