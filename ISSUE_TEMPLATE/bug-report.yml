@@ -1,0 +1,30 @@
+name: Bug Report
+description: File a bug report
+title: "true"
+labels:
+  - "Type:Bug"
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: "# Bug report"
+  - type: input
+    attributes:
+      label: What is the problem
+      description: "Briefly describe the problem."
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Reproduce
+      description: "Steps to reproduce the behavior"
+      value: |
+        ## To Reproduce
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+      render: markdown
+    validations:
+      required: false
+
