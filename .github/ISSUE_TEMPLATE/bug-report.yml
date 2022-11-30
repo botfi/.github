@@ -5,13 +5,13 @@ labels:
   - "Type:Bug"
 assignees: []
 body:
+  - type: markdown
+    attributes:
+      value: "# Bug report"
   - type: input
     attributes:
-      label: Title
-      description: "Title goes here."
-      value: |
-        # 
-      render: markdown
+      label: What is the problem
+      description: "Briefly describe the problem."
     validations:
       required: true
   - type: textarea
