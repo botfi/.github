@@ -1,6 +1,6 @@
 name: User Story
-description: [XX-US-YY]
-title: "New feature or feature extending"
+description: "Describe a User Story"
+title: "[XX-US-YY] User wants to"
 labels:
   - "Type:UserStory"
 assignees: []
