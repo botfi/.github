@@ -1,6 +1,6 @@
 name: Refactoring
 description: Refactoring the code
-title: "New feature or feature extending"
+title: "Make thing better"
 labels:
   - "Type:Refactoring"
 assignees: []
