@@ -1,6 +1,6 @@
 name: User Story
 description: "Describe a User Story"
-title: "[XX-US-YY] User wants to"
+title: "[US-XX] User wants to"
 labels:
   - "Type:UserStory"
 assignees: []
