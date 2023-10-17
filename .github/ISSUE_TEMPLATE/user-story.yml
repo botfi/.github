@@ -22,6 +22,11 @@ body:
       label: "Scenario"
       id: scenario
       description: "Step by step of how the actor's journey"
+      value: |
+        #### A. User visits screen and see expectation
+        - User visits screen /somewhere
+        - User sees the expectation
+        #### B. User clicks on the button
     validations:
       required: false
   - type: textarea

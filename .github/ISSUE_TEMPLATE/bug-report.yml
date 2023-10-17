@@ -8,12 +8,6 @@ body:
   - type: markdown
     attributes:
       value: "# Bug report"
-  - type: input
-    attributes:
-      label: What is the problem
-      description: "Briefly describe the problem."
-    validations:
-      required: true
   - type: textarea
     attributes:
       id: reproduce
@@ -26,4 +20,10 @@ body:
         4. See error
     validations:
       required: false
-
+  - type: textarea
+    attributes:
+      label: "Reference"
+      id: reference
+      description: "Any related issue, PR, document"
+    validations:
+      required: false
