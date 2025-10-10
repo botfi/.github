@@ -1,5 +1,5 @@
-name: Feature
-description: New feature or feature extending
+name: Task
+description: Task to implement new feature or feature extending
 title: "New feature or feature extending"
 labels:
   - "Type:Enhancement"
