@@ -3,6 +3,7 @@ description: Refactoring the code
 title: "Make thing better"
 labels:
   - "Type:Refactoring"
+type: task
 assignees: []
 body:
   - type: textarea

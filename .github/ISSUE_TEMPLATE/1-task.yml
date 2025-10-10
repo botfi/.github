@@ -3,6 +3,7 @@ description: Task to implement new feature or feature extending
 title: "New feature or feature extending"
 labels:
   - "Type:Enhancement"
+type: task
 assignees: []
 body:
   - type: textarea

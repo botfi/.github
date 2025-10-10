@@ -3,6 +3,7 @@ description: "Describe a User Story"
 title: "[US-XX] User wants to"
 labels:
   - "Type:UserStory"
+type: feature
 assignees: []
 body:
   - type: textarea
