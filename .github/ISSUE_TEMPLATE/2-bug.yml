@@ -5,6 +5,7 @@ labels:
   - "Type:Bug"
 type: bug
 assignees: []
+projects: []
 body:
   - type: markdown
     attributes:

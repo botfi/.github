@@ -5,6 +5,7 @@ labels:
   - "Type:UserStory"
 type: feature
 assignees: []
+projects: []
 body:
   - type: textarea
     attributes:

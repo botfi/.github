@@ -5,6 +5,7 @@ labels:
   - "Type:Refactoring"
 type: task
 assignees: []
+projects: []
 body:
   - type: textarea
     attributes:

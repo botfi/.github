@@ -5,6 +5,7 @@ labels:
   - "Type:Enhancement"
 type: task
 assignees: []
+projects: []
 body:
   - type: textarea
     attributes:
